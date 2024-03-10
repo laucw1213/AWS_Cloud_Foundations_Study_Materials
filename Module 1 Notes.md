@@ -54,12 +54,12 @@ Cloud computing can do almost anything the traditional IT can do.
 
 ## Section 2: Advantages of Cloud Computing
 
-- Pay only for the resources you consume (variable cost vs upfront capital expenditure)
-- Economies of scale achieved by aggregate of all users
-- Scaling on demand
-- Speed and flexibility - changes are software level, not hardware like traditional computing
-- Lower overhead due to not maintaining hardware and data centers
-- Data centers are global, like a company's customer base
+- Trade capital expense for variable expense (Pay only for the resources you use)
+- Benefit from massive economies of scale (you can achieve a lower variable cost than you can get on your own)
+- Scaling on demand / Stop guessing capacity (can access as much or little as you need, and scale up and down)
+- Increase speed and agility (new IT resources are only a click away, which means that you reduce the time it takes to make   those resources available to your developers from weeks to just minutes.)
+- Stop spending money on running and maintaining data centers (Focus on projects that differentiate your business instead   of focusing on the infrastructure)
+- Go global in minutes (You can deploy your application in multiple AWS Regions around the world with just a few clicks.)
 
 <br/>
 
